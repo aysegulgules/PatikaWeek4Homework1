@@ -1,1 +1,1 @@
-# PatikaWeek4Homework1
+<span style="font-size:0.5em;"># PatikaWeek4Homework1 Bu pratikte, Persons adında bir sınıf oluşturuldu ve bu sınıfın FirstName, LastName ve BirthDate adında üç public property’si var. PersonsPrint() metodu, bu bilgileri konsola yazdırmak için kullanılıyor. Main metodunda ise birkaç öğrenci ve öğretmen nesnesi oluşturup, bilgiler konsola yazdırıldı</span>.
